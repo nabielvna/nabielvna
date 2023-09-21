@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm nabiel</h1>
+<h1 align="center">Hi 👋, I'm Nabiel</h1>
 <h3 align="center">Currently taking a bachelor's degree in Computer Science at Institut Teknologi Sepuluh Nopember Surabaya</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
