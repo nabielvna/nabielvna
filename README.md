@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nabiel</h1>
 <h3 align="center">Currently taking a bachelor's degree in Computer Science at Institut Teknologi Sepuluh Nopember Surabaya</h3>
-<div style="display: flex; align-items: center; justify-content: center; gap: 16px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 16px;">
     <a href="https://github.com/nabielvna">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabielvna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
