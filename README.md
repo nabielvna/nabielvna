@@ -12,7 +12,6 @@
 <!-- Languages & Frameworks -->
 </br>
 <h2>🔧 Languages & Frameworks</h2>
-<h4>MAIN</h4>
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs,bun,prisma,mysql,postgres,py)
 
