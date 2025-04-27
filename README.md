@@ -14,11 +14,7 @@
 <h2>🔧 Languages & Frameworks</h2>
 <h4>MAIN</h4>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,tailwind,react,nextjs,vue,laravel,nodejs,bun,express,sequelize,prisma,mysql,postgres)
-
-<H4>SIDE</H4>
-
-![My Skills](https://skillicons.dev/icons?i=py,c,cpp,cs)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs,bun,prisma,mysql,postgres,py)
 
 </br>
 
