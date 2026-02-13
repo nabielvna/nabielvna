@@ -9,23 +9,17 @@
   I'm a <code>passionate Web Developer 🌐</code> and <code>Machine Learning enthusiast 🤖</code> </br></br> Currently pursuing a Bachelor's degree in Computer Science at Institut Teknologi Sepuluh Nopember (ITS) Surabaya 🎓
 </h4>
 
-<!-- Languages & Frameworks -->
-</br>
-<h2>🔧 Languages & Frameworks</h2>
-
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs,bun,prisma,mysql,postgres,py)
-
 </br>
 
 <!-- Contributions -->
-<h2>🤝 Contributions</h2>
+<h2>Contributions</h2>
 
 <img alt="snake contribution" src="https://raw.githubusercontent.com/nabielvna/nabielvna/output/github-contribution-grid-snake-dark.svg"/>
 
 </br>
 
 <!-- Statistics -->
-<h2>📈 Statistics</h2>
+<h2>Statistics</h2>
 <div align="left" style="display: flex; align-items: center; justify-content: center; gap: 16px;">
     <a href="https://github.com/nabielvna">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabielvna&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&bg_color=0000"/>
@@ -49,12 +43,5 @@
   <a href="https://github.com/nabielvna">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/nblvna_">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.instagram.com/nabielvna_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
 
 <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=2000&width=1500&lines=As+a+student%2C+I%E2%80%99m+always+looking+for+ways+to+improve.;+Please+don't+hesitate+to+share+any+feedback+or+suggestions!;Whether+it%E2%80%99s+about+my+projects%2C+coding+practices%2C+or+anything+else.;Your+insights+will+be+truly+appreciated.;Thank+you+for+your+time+and+support!" alt="Typing SVG" /></p>
